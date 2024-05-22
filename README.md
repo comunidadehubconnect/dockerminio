@@ -270,24 +270,6 @@ Depois clique em DEPLOY
 ![image](https://github.com/cwmkt/dockerquepasa/assets/91642837/bdc62781-993a-4d31-b8cd-5cd6466900f5)
 
 
-### Baixe os arquivos no Git oficial 
-
-```bash
-https://github.com/nocodeleaks/quepasa
-```
-
-![image](https://github.com/cwmkt/dockerquepasa/assets/91642837/9a69690d-8c7e-4ed9-a5ca-ce9632a05456)
-
-
-Suba pasta \quepasa-main\src do Quepasa dentro volume
-
-```bash
-/var/lib/docker/volumes/quepasa_lab_volume/_data
-```
-![image](https://github.com/cwmkt/dockerquepasa/assets/91642837/41261d30-67dc-4866-a693-3d30c771e316)
-
-Acesse: seudominio.com.br/setup
-
-Faça seu cadastro
+Acesse: seudominio.com.br
 
 **Pronto tudo Funcionando** ✅😎
